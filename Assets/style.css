@@ -20,6 +20,12 @@
     padding: 10px;
     text-align: center;
   }
+  .portfolio-image {
+    width: 150px; /* Adjust the width as needed */
+    height: 175px; /* Adjust the height as needed */
+    display: block;
+    margin: 0 auto; /* This will horizontally center the image */
+}
   
   h1 {
     font-size: 2em;
